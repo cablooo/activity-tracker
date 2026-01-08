@@ -33,7 +33,6 @@ function App() {
   const [view, setView] = useState('daily');
   const [error, setError] = useState(null);
 
-  // Auto fetch data every 5 seconds
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -48,7 +47,7 @@ function App() {
     };
 
     fetchData(); 
-    const interval = setInterval(fetchData, 5000); // Then every 5 seconds
+    const interval = setInterval(fetchData, 5000);
 
     return () => clearInterval(interval);
   }, []);
@@ -210,7 +209,6 @@ function App() {
       <div className="App">
         <header className="header">
           <h1>🖱️ Activity Tracker Dashboard</h1>
-          <p>Track your PC usage with style</p>
         </header>
         <div className="upload-container">
           <div className="upload-card">
@@ -218,7 +216,7 @@ function App() {
             <h2>Data Not Found</h2>
             <p>{error}</p>
             <p className="error-message">
-              Make sure activity_data.json is in the public folder
+              Error
             </p>
           </div>
         </div>
@@ -231,7 +229,6 @@ function App() {
       <div className="App">
         <header className="header">
           <h1>🖱️ Activity Tracker Dashboard</h1>
-          <p>Track your PC usage with style</p>
         </header>
         <div className="upload-container">
           <div className="upload-card">
@@ -249,7 +246,6 @@ function App() {
       <header className="header">
         <div className="header-content">
           <h1>🖱️ Activity Tracker Dashboard</h1>
-          <p>Track your PC usage with style</p>
           <div className="social-links">
             <a href="https://cablooo.github.io/cablo/" target="_blank" rel="noopener noreferrer" className="social-link">
               🌐 Website
