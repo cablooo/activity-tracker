@@ -1,0 +1,31 @@
+{
+  "daily_stats": {
+    "2026-01-08": {
+      "mouse_clicks": {
+        "left": 2483,
+        "right": 471,
+        "middle": 12
+      },
+      "keyboard_presses": 14816,
+      "mouse_movement_pixels": 4098029.8744423636,
+      "sessions": [
+        {
+          "start": "2026-01-08T12:14:51.387569",
+          "end": null
+        },
+        {
+          "start": "2026-01-08T12:30:18.810287",
+          "end": null
+        }
+      ]
+    }
+  },
+  "total_clicks": {
+    "left": 2483,
+    "right": 471,
+    "middle": 12
+  },
+  "total_keys": 14816,
+  "total_mouse_movement_pixels": 4098029.8744423636,
+  "total_sessions": 0
+}
