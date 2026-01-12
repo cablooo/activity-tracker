@@ -67,6 +67,21 @@
           "end": null
         }
       ]
+    },
+    "2026-01-12": {
+      "mouse_clicks": {
+        "left": 0,
+        "right": 0,
+        "middle": 0
+      },
+      "keyboard_presses": 0,
+      "mouse_movement_pixels": 0,
+      "sessions": [
+        {
+          "start": "2026-01-12T18:24:31.056154",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
