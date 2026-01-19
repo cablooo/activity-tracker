@@ -112,14 +112,67 @@
           "end": null
         }
       ]
+    },
+    "2026-01-17": {
+      "mouse_clicks": {
+        "left": 729,
+        "right": 25,
+        "middle": 0
+      },
+      "keyboard_presses": 25,
+      "mouse_movement_pixels": 672000.7402522818,
+      "sessions": [
+        {
+          "start": "2026-01-17T02:47:15.729048",
+          "end": null
+        },
+        {
+          "start": "2026-01-17T03:05:59.330095",
+          "end": null
+        },
+        {
+          "start": "2026-01-17T17:07:41.448282",
+          "end": null
+        }
+      ]
+    },
+    "2026-01-18": {
+      "mouse_clicks": {
+        "left": 388,
+        "right": 23,
+        "middle": 8
+      },
+      "keyboard_presses": 268,
+      "mouse_movement_pixels": 370976.6236914632,
+      "sessions": [
+        {
+          "start": "2026-01-18T16:20:00.000643",
+          "end": null
+        }
+      ]
+    },
+    "2026-01-19": {
+      "mouse_clicks": {
+        "left": 0,
+        "right": 0,
+        "middle": 0
+      },
+      "keyboard_presses": 0,
+      "mouse_movement_pixels": 0,
+      "sessions": [
+        {
+          "start": "2026-01-19T03:38:35.125508",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
-    "left": 11146,
-    "right": 1308,
-    "middle": 167
+    "left": 12263,
+    "right": 1356,
+    "middle": 175
   },
-  "total_keys": 57688,
-  "total_mouse_movement_pixels": 16489215.386710258,
+  "total_keys": 57981,
+  "total_mouse_movement_pixels": 17532192.75056702,
   "total_sessions": 0
 }
