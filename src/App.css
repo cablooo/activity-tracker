@@ -18,10 +18,10 @@ body {
 .header {
   text-align: center;
   padding: 40px 20px;
-  background: linear-gradient(135deg, #8B5CF6 0%, #EC4899 100%);
+  background: linear-gradient(135deg, #2c2c2c 0%, #e8faff 100%);
   border-radius: 20px;
   margin-bottom: 40px;
-  box-shadow: 0 20px 60px rgba(139, 92, 246, 0.3);
+  box-shadow: 0 20px 60px rgba(255, 255, 255, 0.3);
   position: relative;
 }
 
@@ -109,7 +109,7 @@ body {
 
 .upload-btn {
   display: inline-block;
-  background: linear-gradient(135deg, #8B5CF6, #EC4899);
+  background: linear-gradient(135deg, #2c2c2c 0%, #e8faff 100%);
   color: white;
   padding: 15px 40px;
   border-radius: 12px;
@@ -122,7 +122,7 @@ body {
 
 .upload-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(139, 92, 246, 0.4);
+  box-shadow: 0 10px 30px rgba(255, 255, 255, 0.4);
 }
 
 input[type="file"] {
@@ -150,15 +150,15 @@ input[type="file"] {
 }
 
 .view-selector button:hover {
-  border-color: #8B5CF6;
+  border-color: #ffffff;
   transform: translateY(-2px);
 }
 
 .view-selector button.active {
-  background: linear-gradient(135deg, #8B5CF6, #EC4899);
+  background: linear-gradient(135deg, #2c2c2c 0%, #7c7c7c 100%);
   border-color: transparent;
   color: white;
-  box-shadow: 0 5px 20px rgba(139, 92, 246, 0.4);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
 }
 
 .stats-grid {
@@ -182,13 +182,13 @@ input[type="file"] {
 
 .stat-card:hover {
   transform: translateY(-5px);
-  border-color: #8B5CF6;
+  border-color: #ffffff;
   box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2);
 }
 
 .stat-icon {
   font-size: 3em;
-  background: linear-gradient(135deg, #8B5CF6, #EC4899);
+  background: linear-gradient(135deg, #2c2c2c 0%, #e8faff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -206,7 +206,7 @@ input[type="file"] {
 .stat-value {
   font-size: 2.2em;
   font-weight: 700;
-  background: linear-gradient(135deg, #8B5CF6, #EC4899);
+  background: linear-gradient(135deg, #2c2c2c 0%, #e8faff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -229,7 +229,7 @@ input[type="file"] {
 }
 
 .chart-card:hover {
-  border-color: #8B5CF6;
+  border-color: #ffffff;
   box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2);
 }
 

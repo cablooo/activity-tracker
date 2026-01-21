@@ -273,12 +273,6 @@ function App() {
         >
           This Week
         </button>
-        <button
-          className={view === 'alltime' ? 'active' : ''}
-          onClick={() => setView('alltime')}
-        >
-          All Time
-        </button>
       </div>
 
       <div className="stats-grid">
@@ -303,14 +297,6 @@ function App() {
           <div className="stat-info">
             <h3>Mouse Distance</h3>
             <p className="stat-value">{viewData.distance}M px</p>
-          </div>
-        </div>
-
-        <div className="stat-card">
-          <div className="stat-icon">⏱️</div>
-          <div className="stat-info">
-            <h3>Sessions</h3>
-            <p className="stat-value">{viewData.sessions}</p>
           </div>
         </div>
       </div>
