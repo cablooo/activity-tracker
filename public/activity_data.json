@@ -270,14 +270,29 @@
           "end": null
         }
       ]
+    },
+    "2026-01-28": {
+      "mouse_clicks": {
+        "left": 564,
+        "right": 32,
+        "middle": 23
+      },
+      "keyboard_presses": 1160,
+      "mouse_movement_pixels": 655000.7480757507,
+      "sessions": [
+        {
+          "start": "2026-01-28T11:19:26.600927",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
-    "left": 22372,
-    "right": 2332,
-    "middle": 430
+    "left": 22936,
+    "right": 2364,
+    "middle": 453
   },
-  "total_keys": 85138,
-  "total_mouse_movement_pixels": 28261547.858908735,
+  "total_keys": 86298,
+  "total_mouse_movement_pixels": 28916548.606907427,
   "total_sessions": 0
 }
