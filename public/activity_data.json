@@ -891,6 +891,21 @@
           "end": null
         }
       ]
+    },
+    "2026-03-17": {
+      "mouse_clicks": {
+        "left": 0,
+        "right": 0,
+        "middle": 0
+      },
+      "keyboard_presses": 0,
+      "mouse_movement_pixels": 0,
+      "sessions": [
+        {
+          "start": "2026-03-17T12:01:43.276852",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
