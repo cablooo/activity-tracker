@@ -307,6 +307,21 @@
           "end": null
         }
       ]
+    },
+    "2026-04-26": {
+      "mouse_clicks": {
+        "left": 0,
+        "right": 0,
+        "middle": 0
+      },
+      "keyboard_presses": 0,
+      "mouse_movement_pixels": 1001.6649794488432,
+      "sessions": [
+        {
+          "start": "2026-04-26T12:04:07.344985",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
@@ -315,6 +330,6 @@
     "middle": 289
   },
   "total_keys": 95164,
-  "total_mouse_movement_pixels": 24749105.5079891,
+  "total_mouse_movement_pixels": 24750107.17296849,
   "total_sessions": 0
 }
