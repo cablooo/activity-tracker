@@ -938,6 +938,21 @@
           "end": null
         }
       ]
+    },
+    "2026-07-06": {
+      "mouse_clicks": {
+        "left": 0,
+        "right": 0,
+        "middle": 0
+      },
+      "keyboard_presses": 0,
+      "mouse_movement_pixels": 0,
+      "sessions": [
+        {
+          "start": "2026-07-06T01:24:08.902117",
+          "end": null
+        }
+      ]
     }
   },
   "total_clicks": {
